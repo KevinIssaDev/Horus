@@ -9,7 +9,6 @@ import sys
 import asyncio
 import aiohttp
 
-# TODO: aiohttp timeout
 
 ## Functions
 def load_configuration():
